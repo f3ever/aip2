@@ -1,0 +1,4 @@
+﻿  Console_In_Out.cpp
+E:\var6\AIP_2-semestr\неделя 2, 3\4\Console_In_Out\Console_In_Out.cpp(5,18): warning C4305: инициализация: усечение из "double" в "float"
+E:\var6\AIP_2-semestr\неделя 2, 3\4\Console_In_Out\Console_In_Out.cpp(5,27): warning C4305: инициализация: усечение из "double" в "float"
+  Console_In_Out.vcxproj -> E:\var6\AIP_2-semestr\неделя 2, 3\4\Debug\Console_In_Out.exe

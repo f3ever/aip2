@@ -1,0 +1,6 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\Vak\OneDrive\Рабочий стол\6\неделя 9-10\4\ConsoleApplication1\ConsoleApplication1.cpp(15,13): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\Vak\OneDrive\Рабочий стол\6\неделя 9-10\4\ConsoleApplication1\ConsoleApplication1.cpp(16,13): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\Vak\OneDrive\Рабочий стол\6\неделя 9-10\4\ConsoleApplication1\ConsoleApplication1.cpp(17,13): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\Vak\OneDrive\Рабочий стол\6\неделя 9-10\4\ConsoleApplication1\ConsoleApplication1.cpp(18,13): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+  ConsoleApplication1.vcxproj -> C:\Users\Vak\OneDrive\Рабочий стол\6\неделя 9-10\4\x64\Debug\ConsoleApplication1.exe
